@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Literature Search Pro
 
 A deep, portable skill for finding, verifying, appraising, and documenting scientific articles across PubMed, Google Scholar, ScienceDirect, Scopus, Web of Science, Embase, Cochrane, Europe PMC, OpenAlex, arXiv, IEEE, and more. Every article can be saved as a structured Markdown file.
@@ -60,3 +61,6 @@ Set `NCBI_EMAIL` and `NCBI_API_KEY` environment variables to avoid retyping.
 - Database interfaces change. The syntax here reflects documentation known at writing time; confirm in the platform's help pages when something errors.
 - The scripts were tested for parsing and query generation offline; live API behavior depends on your network and the services' current terms and rate limits.
 - AI-assisted screening and appraisal support, but do not replace, dual human review for formal systematic reviews.
+=======
+# literature-search-pro
+>>>>>>> 8de07f58e4673d69095494eef27638d7d498fc28
